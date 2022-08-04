@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chris/code/Ruston3/TaxiFareModel/mlruns/1/a8c7b21bfeb5401b9735875c7c36356f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: a8c7b21bfeb5401b9735875c7c36356f
+run_uuid: a8c7b21bfeb5401b9735875c7c36356f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1659635854238
+status: 1
+tags: []
+user_id: unknown
